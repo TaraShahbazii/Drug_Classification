@@ -19,9 +19,8 @@ This project is a machine learning solution to classify drugs based on patient c
 4. K-Nearest Neighbors (KNN)
 
 ## Results
-- The best-performing model was **[Model Name]**, achieving an accuracy of **[X%]**.
-- Decision trees provided insights into feature importance.
-
+- The best-performing model was **[Decision Tree]**, achieving an accuracy of **[92%]**.
+  
 ## Tools and Libraries
 - **Programming Language**: Python
 - **Libraries**: Scikit-learn, Pandas, Matplotlib, Seaborn
